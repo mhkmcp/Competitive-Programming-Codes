@@ -1,4 +1,7 @@
-/// Accepted
+/** Accepted
+
+    Ad-hoc
+*/
 
 #include<stdio.h>
 int main()
